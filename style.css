@@ -1,0 +1,23 @@
+h1{
+    color: orangered;
+}
+
+.one{
+    color: red;
+}
+
+.Two{
+    color: blue;
+}
+
+#one{
+    color: brown;
+}
+
+#two{
+    color: blueviolet;
+}
+
+*{
+    color: yellow;
+}
